@@ -16,10 +16,10 @@ A Simple App To Do List by Flutter
 
 # Screenshots
 
-![DoneScreen](https://github.com/Ahmed-Humishan/ToDoList/assets/111582706/d937ebc1-8172-4ee8-8123-e53bef113a3b)
-![TasksScreen](https://github.com/Ahmed-Humishan/ToDoList/assets/111582706/d12b7d0d-f40a-46a4-814e-ae2134e711f6)
-![ArchiveScreen](https://github.com/Ahmed-Humishan/ToDoList/assets/111582706/26b99bc9-5a1a-4e09-b98f-523bcb8c455e)
-![AddScreen](https://github.com/Ahmed-Humishan/ToDoList/assets/111582706/d7f8fc9d-6424-4ca1-8964-c534ceefbd14)
+<img src ="https://github.com/Ahmed-Humishan/ToDoList/assets/111582706/d937ebc1-8172-4ee8-8123-e53bef113a3b" width=300>
+<img src ="https://github.com/Ahmed-Humishan/ToDoList/assets/111582706/d12b7d0d-f40a-46a4-814e-ae2134e711f6" width=300>
+<img src ="https://github.com/Ahmed-Humishan/ToDoList/assets/111582706/26b99bc9-5a1a-4e09-b98f-523bcb8c455e" width=300>
+<img src ="https://github.com/Ahmed-Humishan/ToDoList/assets/111582706/d7f8fc9d-6424-4ca1-8964-c534ceefbd14" width=300>
 
 
 
